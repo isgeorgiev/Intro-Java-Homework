@@ -1,0 +1,13 @@
+iliya@iliya-PC:~$ ls
+Desktop    Downloads  Java   Pictures  Templates
+Documents  eclipse    Music  Public    Videos
+iliya@iliya-PC:~$ cd eclipse
+iliya@iliya-PC:~/eclipse$ ls
+Intro-Java-Homework
+iliya@iliya-PC:~/eclipse$ cd /home/iliya/eclipse/Intro-Java-Homework
+iliya@iliya-PC:~/eclipse/Intro-Java-Homework$ ls
+bin  compile-and-run-commands  src
+iliya@iliya-PC:~/eclipse/Intro-Java-Homework$ cd /home/iliya/eclipse/Intro-Java-Homework/bin
+iliya@iliya-PC:~/eclipse/Intro-Java-Homework/bin$ ls
+CurrentDateTime.class  PrintHometown.class  SumTwoNumbers.class
+iliya@iliya-PC:~/eclipse/Intro-Java-Homework/bin$ java SumTwoNumbers
